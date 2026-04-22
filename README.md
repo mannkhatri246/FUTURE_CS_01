@@ -1,5 +1,3 @@
-# Task 1 - Vulnerability Assessment Report
-
 ## Overview
 A passive, read-only security audit conducted on http://demo.testfire.net (Altoro Mutual - IBM Demo Banking Application) as part of the Future Interns Cybersecurity Internship 2026.
 
